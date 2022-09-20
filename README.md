@@ -1,3 +1,3 @@
 # Python-Bootcamp-Test-Tasks
-Для работы библиотеки TikTokApi требуется установить playwright 
+For working TikTokApi you need install playwright 
 python3 -m playwright install
